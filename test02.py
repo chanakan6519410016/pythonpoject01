@@ -1,0 +1,7 @@
+print("Hi....") 
+print('hey')
+print(46465)
+print(True)
+print('false')
+print("s67654645")
+print(10+10+20)
